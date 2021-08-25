@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @reemfathima
 - 👀 I’m interested in Programming
-- 🌱 I’m currently doing B. Tech in Computer Science
+- 🌱 I’m a Computer Science Graduate
 - 📫 You can reach me at reemfms@gmail.com
 
 <!---
