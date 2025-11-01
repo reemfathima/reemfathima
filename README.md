@@ -6,7 +6,7 @@ I have over **2 years of experience** building mobile and web apps, with hands-o
 ### Skills & Interests
 React Native, JavaScript, TypeScript, Python, HTML, CSS, REST APIs, AI, ML, LLM projects  
 
-📫 Connect: [LinkedIn](your-linkedin) | [Email](mailto:your-email) | [GitHub](your-github)
+📫 Connect: [LinkedIn](https://www.linkedin.com/in/reem-fathima-ms/) | [Email](mailto:reemfms@gmail.com) | [GitHub]([your-github](https://github.com/reemfathima))
 
 <!---
 reemfathima/reemfathima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
