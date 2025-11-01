@@ -6,12 +6,6 @@ I have over **2 years of experience** building mobile and web apps, with hands-o
 ### Skills & Interests
 React Native, JavaScript, TypeScript, Python, HTML, CSS, REST APIs, AI, ML, LLM projects  
 
-### Projects
-- **Canteen Management Web App** – College project  
-- **Currency Converter App** – Mobile app with real-time rates  
-- **To-Do List App** – Task management app  
-- **Travel Itinerary Chatbot** – Python AI project  
-
 📫 Connect: [LinkedIn](your-linkedin) | [Email](mailto:your-email) | [GitHub](your-github)
 
 <!---
